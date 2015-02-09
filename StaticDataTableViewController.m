@@ -396,8 +396,6 @@
         
         [self.tableView endUpdates];
         
-        [self.tableView reloadData];
-        
     }
     
 }
